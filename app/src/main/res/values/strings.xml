@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Alertdemo</string>
+    <string-array name="pokemon">
+        <item>pikachu</item>
+        <item>Charizard</item>
+        <item>Torchic</item>
+        <item>Squirtle</item>
+    </string-array>
+</resources>
